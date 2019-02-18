@@ -1,2 +1,0 @@
-# compradorManaus
-Aplicação Comprador Manaus
